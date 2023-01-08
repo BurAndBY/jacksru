@@ -15543,7 +15543,7 @@ ${r.message}`,
             GALLERY_LINK: "Посетите галерею",
             PLAY_AGAIN: "Сыграть еще раз?",
             BUTTON_SAME_PLAYERS: "Те же игроки",
-            BUTTON_NEW_PLAYERS: "Новые игроки".
+            BUTTON_NEW_PLAYERS: "Новые игроки"
         },
         aq = {
             AND: "И",
