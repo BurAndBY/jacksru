@@ -15524,7 +15524,7 @@ ${r.message}`,
             DRAWING_NOTHING: "Вы должны что-то нарисовать!",
             PLAYER_KICKED: "Вы были удалены из игры модератором.",
             ROOM_DESTROYED: "Спасибо за игру!",
-            ROOM_DISCONNECTED: "Отключен",
+            ROOM_DISCONNECTED: "Отключенo",
             TEXT_NAUGHTY: "Я\u2019 боюсь, что вы не можете\u2019 написать это. Пожалуйста, будьте уважительны к другим игрокам.",
             TEXT_NOTHING: "Вы не можете\u2019 ничего ввести!",
             TITLE: "Ошибка"
@@ -15537,7 +15537,7 @@ ${r.message}`,
             WAITING_FOR_GAMEPAD: "Ожидание начала игры",
             GAME_STARTING: "Игра начинается",
             BUTTON_START: "Нажмите, чтобы начать",
-            BUTTON_CANCEL: "Нажмите для отмены".
+            BUTTON_CANCEL: "Нажмите для отмены"
         },
         sq = {
             GALLERY_LINK: "Посетите галерею",
