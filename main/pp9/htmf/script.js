@@ -25262,74 +25262,74 @@ ${t}`
         },
         fne = {
             AVATAR: {
-                AUDIENCE: "blocky television with antenna and on-screen eyeball",
-                BLUE: "blue, masculine face with glasses and mustache covering mouth",
-                BROWN: "brown, masculine face with age wrinkles and bushy beard",
-                CYAN: "cyan, feminine face with half-lidded eyes and hair swooped to one side",
-                GENE: "gray, androgynous face of the loveably milquetoast figure, Gene",
-                GRAY: "gray, alien face with oval-shaped eyes and vertical nostrils",
-                GREEN: "green, masculine face with short hair, cleft chin, and rounded trim mustache",
-                MAGENTA: "magenta, feminine face with prominent nose and right eye covered by hair",
-                ORANGE: "orange, feminine face with beauty mark and left eye covered by hair",
-                PINK: "pink, androgynous face with spiky rockstar hair and nose ring",
-                PURPLE: "purple, androgynous face with round glasses and sleepy expression",
-                RED: "red, feminine face with headband and hair ending in curl",
-                TEAL: "teal, feminine face with mop of hair and pleasant expression",
-                YELLOW: "yellow, masculine face with square shape and slight smile"
+                AUDIENCE: "блочный телевизор с антенной и глазным яблоком на экране",
+                BLUE: "синее мужское лицо в очках и с усами, закрывающими рот",
+                BROWN: "коричневое мужское лицо с морщинами и кустистой бородой",
+                CYAN: "голубое, женственное лицо с полузакрытыми глазами и волосами, уложенными на одну сторону",
+                GENE: "серое, андрогинное лицо миловидной фигуры Джина",
+                GRAY: "серое, инопланетное лицо с овальной формой глаз и вертикальными ноздрями",
+                GREEN: "зеленое мужественное лицо с короткими волосами, щелевидным подбородком и округлыми подстриженными усами",
+                MAGENTA: "пурпурное, женственное лицо с выдающимся носом и правым глазом, прикрытым волосами",
+                ORANGE: "оранжевое, женственное лицо с косметическим знаком и левым глазом, прикрытым волосами",
+                PINK: "розовое, андрогинное лицо с острыми волосами рок-звезды и кольцом в носу",
+                PURPLE: "фиолетовое андрогинное лицо с круглыми очками и сонным выражением",
+                RED: "красное, женственное лицо с повязкой на голове и волосами, заканчивающимися локоном",
+                TEAL: "teal, женственное лицо с копной волос и приятным выражением",
+                YELLOW: "желтое, мужественное лицо квадратной формы с легкой улыбкой".
             },
-            DOOR: "open door with an arrow pointing away from it",
+            DOOR: "открытая дверь со стрелкой, направленной от нее",
             ENVELOPE: {
-                CLOSED: "closed envelope",
-                EMPTY: "faded, inactive envelope",
-                NEW: "closed envelope with new results inside",
-                OPEN: "open envelope"
+                CLOSED: "закрытый конверт",
+                EMPTY: "выцветший, неактивный конверт",
+                NEW: "закрытый конверт с новыми результатами внутри",
+                OPEN: "открытый конверт"
             },
             NOTIFICATION: "notification circle"
         },
         dne = {
-            BANNER: "Challenge",
+            BANNER: "Вызов",
             INSTRUCTIONS: {
-                ANSWER: "Submit Your Answer",
-                INTRO: "Introduce Yourself",
-                CONNECTION: "Connect with Somebody",
-                QUICKIE: "Answer Anonymously",
-                FIRESTARTER: "Start Some Drama",
-                FINALE: "Make Your Case"
+                ANSWER: "Отправить свой ответ",
+                INTRO: "Представьтесь",
+                CONNECTION: "Связаться с кем-то",
+                QUICKIE: "Ответить анонимно",
+                FIRESTARTER: "Начните драму",
+                FINALE: "Приведите свои доводы"
             }
         },
         hne = {
-            BANNER: "Elimination"
+            BANNER: "Устранение"
         },
-        pne = "1 character remaining | {num} characters remaining",
+        pne = "Остался 1 персонаж | Осталось {num} персонажей",
         gne = {
-            PICKS: "picks",
-            WITH: "with"
+            PICKS: "выбирает",
+            WITH: "с"
         },
         mne = {
-            INSTRUCTIONS: "Who should leave?",
-            PLACEHOLDER: "What did they do to deserve this?"
+            INSTRUCTIONS: "Кто должен уйти?",
+            PLACEHOLDER: "Что они сделали, чтобы заслужить это?".
         },
-        vne = "Finale",
-        yne = "Finished",
+        vne = "Финал",
+        yne = "Закончил",
         _ne = {
             ARIA: {
-                FLAIR: "Write your own detail"
+                FLAIR: "Напишите свою собственную деталь"
             },
             BANNER: {
-                JOIN: "Join Game",
-                START: "Start Game"
+                JOIN: "Присоединиться к игре",
+                START: "Начать игру"
             },
             INSTRUCTIONS: {
-                AVATAR: "Choose your avatar",
-                FLAIR: "Choose a detail about your character",
-                NAME: {
-                    HEADER: "Confirm Your Name",
-                    DESCRIPTION: `Other players will see your name.
-Make sure you like it before the competition begins!`,
-                    WARNING: `NOTE:
-Variations of the name you've chosen may also appear in the game.`
+                AVATAR: "Выберите свой аватар",
+                FLAIR: "Выберите деталь о вашем персонаже",
+                ИМЯ: {
+                    HEADER: "Подтвердите свое имя",
+                    DESCRIPTION: `Другие игроки увидят ваше имя.
+Убедитесь, что оно вам нравится, прежде чем начнется соревнование!
+                    WARNING: `ВНИМАНИЕ:
+Вариации выбранного вами имени могут также появиться в игре.`
                 },
-                PRONOUN: "Which pronouns should we use?"
+                PRONOUN: "Какие местоимения мы должны использовать?".
             },
             PLACEHOLDER: {
                 FLAIR: "Write your own..."
@@ -25341,49 +25341,49 @@ Variations of the name you've chosen may also appear in the game.`
             },
             USE_THIS: "Use This"
         },
-        Ene = "Points",
-        bne = "Audience Poll",
+        Ene = "Баллы",
+        bne = "Опрос аудитории",
         Tne = {
             DESCRIPTION: {
-                NEW_PLAYERS: "New cast, fresh attitudes!",
-                SAME_PLAYERS: "Continue this journey where the season left off...",
-                RESET_SCORES: "with reset scores!"
+                NEW_PLAYERS: "Новый состав, свежие взгляды!",
+                SAME_PLAYERS: "Продолжите путешествие с того места, где остановился сезон...",
+                RESET_SCORES: "С обнуленными баллами!"
             }
         },
         Sne = {
-            CHALLENGE: {
-                WINNER: "Challenge Winner",
-                WHO_VOTED: "Who Voted For Me?"
+            ЗАДАЧА: {
+                WINNER: "Победитель вызова",
+                WHO_VOTED: "Кто проголосовал за меня?"
             },
             ELIMINATION: {
                 WHO_VOTED: {
-                    LAST_ROUND: "Who Tried To Eliminate Me Last Round?",
-                    THIS_ROUND: "Who Voted To Eliminate Me?"
+                    LAST_ROUND: "Кто пытался устранить меня в прошлом раунде?",
+                    THIS_ROUND: "Кто проголосовал за мое устранение?"
                 }
             },
-            EVERYONE: "EVERYONE",
+            ВСЕМ: "КАЖДЫЙ",
             NO_ONE: "NO ONE",
             SUFFIX: {
-                CHALLENGE: {
-                    EVERYONE: ["You're a star!", "Don't get cocky.", "Nailing it.", "You're having a moment."],
-                    NO_ONE: ["Deal with it.", "Time to get noticed!", "Step it up.", "Get on the radar!", "You're blowing it.", "Fix this.", "Scared?", "Change it up!", "\u{1F622}"]
+                ЗАДАЧА: {
+                    КАЖДЫЙ: ["Ты - звезда!", "Не зазнавайся.", "На высоте.", "У тебя сейчас момент."],
+                    NO_ONE: ["Смирись с этим.", "Время быть замеченным!", "Сделай шаг вперед.", "Попади на радар!", "Ты проваливаешься.", "Исправь это.", "Боишься?", "Измени это!", "\u{1F622}"].
                 },
-                ELIMINATION: {
-                    EVERYONE: ["You're the villain.", "Literally everyone.", "Think about that.", "Figure it out.", "\u{1F622}"],
-                    NO_ONE: ["Enjoy it.", "Exhale.", "You're safe for now."]
+                ИСКЛЮЧЕНИЕ: {
+                    КАЖДЫЙ: ["Ты злодей.", "Буквально все.", "Подумай об этом.", "Разберись.", "\u{1F622}"] },
+                    NO_ONE: ["Наслаждайся.", "Выдохни.", "Пока что ты в безопасности."].
                 }
             }
         },
         One = {
-            SKIP: "Press to Skip Tutorials"
+            SKIP: "Нажмите, чтобы пропустить туториал"
         },
         Ine = {
             GOODBYE: {
-                DONE: "I'm Done"
+                СДЕЛАНО: "Я готов"
             },
             PLACEHOLDER: {
-                GOODBYE: "Say goodbye... or don't!",
-                WRITE: "Write your answer..."
+                GOODBYE: "Попрощайтесь... или не прощайтесь!",
+                WRITE: "Напишите свой ответ..."
             }
         },
         Ane = {
